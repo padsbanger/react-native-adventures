@@ -1,4 +1,4 @@
-### My trying to learn coding native mobile development.
+### Me trying to learn coding native mobile app.
 
 ---
 
