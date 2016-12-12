@@ -5,7 +5,7 @@ import AlbumList from './src/components/AlbumList';
 
 
 const App = () => (
-  <View>
+  <View style={{ flex: 1 }}>
     <Header title="Albums!" />
     <AlbumList />
   </View>
